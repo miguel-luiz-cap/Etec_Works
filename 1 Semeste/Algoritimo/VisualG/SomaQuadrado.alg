@@ -1,5 +1,5 @@
-Algoritmo "Exercicio 2"
-// Descrição   : Soma do quadrao e exibe os valores ou a metade do total
+Algoritmo "SomaQuadrado"
+// DescriÃ§Ã£o   : Soma do quadrado e exibe os valores ou a metade do total
 // Autor(a)    : Miguel Luiz
 // Data atual  : 24/08/2020
 Var
@@ -8,10 +8,10 @@ quadrado_b : real
 soma_quadrado : real
 
 Inicio
-escreva("Digite o 1º Número: ")
+escreva("Digite o 1Âº NÃºmero: ")
 leia(quadrado_a)
 
-escreva("Digite o 2º Número: ")
+escreva("Digite o 2Âº NÃºmero: ")
 leia(quadrado_b)
 
 soma_quadrado <- (quadrado_a^2) + (quadrado_b^2)
