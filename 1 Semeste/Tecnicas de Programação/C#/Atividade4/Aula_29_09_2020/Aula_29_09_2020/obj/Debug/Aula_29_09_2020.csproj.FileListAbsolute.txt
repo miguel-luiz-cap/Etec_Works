@@ -1,0 +1,10 @@
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\bin\Debug\Aula_29_09_2020.exe.config
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\bin\Debug\Aula_29_09_2020.exe
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\bin\Debug\Aula_29_09_2020.pdb
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\obj\Debug\Aula_29_09_2020.csprojAssemblyReference.cache
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\obj\Debug\Aula_29_09_2020.frmVeiculos.resources
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\obj\Debug\Aula_29_09_2020.Properties.Resources.resources
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\obj\Debug\Aula_29_09_2020.csproj.GenerateResource.cache
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\obj\Debug\Aula_29_09_2020.csproj.CoreCompileInputs.cache
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\obj\Debug\Aula_29_09_2020.exe
+C:\Users\scras\Documents\Trabalhos ETEC\TP\Aula-29-09-20\Aula_29_09_2020\Aula_29_09_2020\obj\Debug\Aula_29_09_2020.pdb
