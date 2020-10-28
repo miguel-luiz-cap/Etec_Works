@@ -1,0 +1,10 @@
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\bin\Debug\ParOuImpar_Visual.exe.config
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\bin\Debug\ParOuImpar_Visual.exe
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\bin\Debug\ParOuImpar_Visual.pdb
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\obj\Debug\ParOuImpar_Visual.csprojAssemblyReference.cache
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\obj\Debug\ParOuImpar_Visual.frm_ParImpar.resources
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\obj\Debug\ParOuImpar_Visual.Properties.Resources.resources
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\obj\Debug\ParOuImpar_Visual.csproj.GenerateResource.cache
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\obj\Debug\ParOuImpar_Visual.csproj.CoreCompileInputs.cache
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\obj\Debug\ParOuImpar_Visual.exe
+C:\Users\scras\Documents\Trabalhos ETEC\Diversao\ParOuImpar_Visual\ParOuImpar_Visual\ParOuImpar_Visual\obj\Debug\ParOuImpar_Visual.pdb
